@@ -1,19 +1,19 @@
 # Just copy this file to config.py and change it to your info.
 from pyrogram import filters
 
-# Get these two from https://my.telegram.org
+# Get these two from https://
 API_ID = 1234567
 API_HASH = "ab1c23def45fg67890h123i45678j9kl"
 
 # Get this from @Botfather
-TOKEN = "1234567890:ABCdEFgHij1KlMNop_QrStuVWxyzuA-EmXI"
+TOKEN = "1609689780:AAHnFXbmOpD1CNbq0Gjc41L-bCLVwfWIdWM"
 
 # Your MongoDB URI (using a database named "vcpb"), if you don't provide, you can't use the playlist feature and wont see now playing message
 MONGO_DB_URI = ""
 
 # The IDs of the users which can stream, skip, pause and change volume
 SUDO_USERS = [
-    383407735,
+    957539786,
     951435494,
     1392620345
 ]
