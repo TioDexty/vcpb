@@ -2,8 +2,8 @@
 from pyrogram import filters
 
 # Get these two from https://
-API_ID = 1234567
-API_HASH = "ab1c23def45fg67890h123i45678j9kl"
+API_ID = 1379454
+API_HASH = "6342aa5989c215f0007c68e542fce52b"
 
 # Get this from @Botfather
 TOKEN = "1609689780:AAHnFXbmOpD1CNbq0Gjc41L-bCLVwfWIdWM"
