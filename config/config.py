@@ -20,7 +20,7 @@ SUDO_USERS = [
 ]
 
 # The ID of the group where your bot streams
-GROUP = -1275462662
+GROUP = -1001275462662
 
 # Users must join the group before using the bot (note: the bot should be admin in the group if you enable this)
 USERS_MUST_JOIN = true
