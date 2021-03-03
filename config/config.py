@@ -6,10 +6,10 @@ API_ID = 1379454
 API_HASH = "6342aa5989c215f0007c68e542fce52b"
 
 # Get this from @Botfather
-TOKEN = "1234567890:ABCdEFgHij1KlMNop_QrStuVWxyzuA-EmXI"
+TOKEN = "1609689780:AAHnFXbmOpD1CNbq0Gjc41L-bCLVwfWIdWM"
 
 # Your MongoDB URI (using a database named "vcpb"), if you don't provide, you can't use the playlist feature and wont see now playing message
-MONGO_DB_URI = ""
+MONGO_DB_URI = "mongodb+srv://vcpb:vcpb@cluster0.nxvqr.mongodb.net/vcpb?retryWrites=true&w=majority"
 
 # The IDs of the users which can stream, skip, pause and change volume
 SUDO_USERS = [
