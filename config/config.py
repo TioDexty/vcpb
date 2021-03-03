@@ -13,22 +13,23 @@ MONGO_DB_URI = "mongodb+srv://vcpb:vcpb@cluster0.nxvqr.mongodb.net/vcpb?retryWri
 
 # The IDs of the users which can stream, skip, pause and change volume
 SUDO_USERS = [
-    383407735,
-    951435494,
-    1392620345
+    957539786,
+    1620606850,
+    1402179007,
+    1417315424
 ]
 
 # The ID of the group where your bot streams
-GROUP = -1001402753006
+GROUP = -1275462662
 
 # Users must join the group before using the bot (note: the bot should be admin in the group if you enable this)
-USERS_MUST_JOIN = False
+USERS_MUST_JOIN = true
 
 # Choose the preferred language for your bot. If English leave as it is, or change to the code of any supported language.
 LANG = "en"
 
 # Max video duration allowed for user downloads in minutes
-DUR_LIMIT = 5
+DUR_LIMIT = 15
 
 # No need to touch the following.
 LOG_GROUP = GROUP if MONGO_DB_URI != "" else None
